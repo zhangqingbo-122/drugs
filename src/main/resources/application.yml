@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: drug
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///drug?characterEncoding=UTF-8
+    username: root
+    password: root
