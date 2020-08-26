@@ -11,6 +11,7 @@ public class HellController {
     public String hello() {
         System.out.println("1111");
         System.out.println("222");
+        System.out.println("5555555");
         return "index";
     }
 

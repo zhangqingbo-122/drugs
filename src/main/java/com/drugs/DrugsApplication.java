@@ -1,4 +1,4 @@
-package com.drugs.drugs;
+package com.drugs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
